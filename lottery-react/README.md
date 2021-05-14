@@ -1,4 +1,6 @@
-Notes: https://gist.github.com/gumdropsteve/e77e0e5ff1cf2ee67c8f830c2b4b88b1
+Notes from React section: https://gist.github.com/gumdropsteve/e77e0e5ff1cf2ee67c8f830c2b4b88b1
+
+That repo: https://github.com/gumdropsteve/youtube-search
 
 # Getting Started with Create React App
 
