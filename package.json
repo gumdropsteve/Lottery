@@ -1,0 +1,16 @@
+{
+  "name": "inbox",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.4.0",
+    "dotenv": "^9.0.2",
+    "ganache-cli": "^6.12.2",
+    "mocha": "^8.4.0",
+    "solc": "^0.4.17",
+    "truffle-hdwallet-provider": "^0.0.3",
+    "web3": "^1.0.0-beta.26"
+  }
+}
