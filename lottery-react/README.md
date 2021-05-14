@@ -1,3 +1,5 @@
+Notes: https://gist.github.com/gumdropsteve/e77e0e5ff1cf2ee67c8f830c2b4b88b1
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
